@@ -1,0 +1,12 @@
+body{
+    
+    background-color: plum;
+}
+
+.all {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
