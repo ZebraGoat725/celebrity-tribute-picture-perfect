@@ -1,0 +1,13 @@
+body{
+    background-color:#D8BFD8;   
+}
+
+* {
+    text-align: center;
+    list-style-type: none;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
