@@ -1,6 +1,3 @@
-body{
-    background-color:#D8BFD8;   
-}
 
 * {
     text-align: center;
@@ -10,4 +7,8 @@ body{
 .nav{
     display: flex;
     justify-content: space-around;
+}
+
+.hh{
+    max-width: 300px;
 }
